@@ -12,5 +12,12 @@
   * Gmail : khalid.a5251@gmail.com
   * Whatsapp : +201012429577
 
+- Certifications :
+  * Compute Science Certificate
+  * IBM Data Science Professional Certificate
+  * FWD Data Analysis Professional Certificate
+  * 365 Data Science Data Analysis Professional Certificate
+
+
 
 
