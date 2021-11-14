@@ -18,6 +18,14 @@
   * FWD Data Analysis Professional Certificate
   * 365 Data Science Data Analysis Professional Certificate
 
+## 🧰 Languages and Tools:
 
+<p align="center">
+ 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://cdn-icons-png.flaticon.com/512/1826/1826638.png" alt="Data Science" height="40" style="vertical-align:top; margin:4px">
+  <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
+  <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
+  <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
 
-
+</p>
