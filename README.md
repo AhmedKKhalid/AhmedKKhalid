@@ -23,9 +23,18 @@
 <p align="center">
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://cdn-icons-png.flaticon.com/512/1826/1826638.png" alt="Data Science" height="40" style="vertical-align:top; margin:4px">
-  <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
-  <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
-  <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.icons8.com/color/452/dart.png" alt="Dart" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node js" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/344/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://iconape.com/wp-content/png_logo_vector/scikit-learn-logo.png" alt="Sklearn" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://img.icons8.com/color/344/tensorflow.png" alt="Tensorflow" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/344/tableau-software.png" alt="Tableau" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/344/ms-excel.png" alt="Excel" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/fluency/344/android-studio--v3.png" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
+
+
 
 </p>
