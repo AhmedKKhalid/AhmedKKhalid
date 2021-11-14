@@ -4,7 +4,7 @@
 - ⚡ My Specializations :
   * Data Science
   * Data Analysis
-  * Flutter in Visualization
+  * Flutter in Visualization (web , android , ios)
 
 
 - :white_check_mark: Portfolio : https://porfolio-123a8.web.app/#/
