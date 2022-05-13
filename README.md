@@ -6,7 +6,7 @@
   * Data Analysis
   * Flutter in Visualization (web , android , ios)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedKKhalid)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedKKhalid)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 - :white_check_mark: Portfolio : https://porfolio-123a8.web.app/#/
