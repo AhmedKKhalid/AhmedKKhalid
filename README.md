@@ -16,7 +16,7 @@
 - Certifications :
   * Compute Science Certificate
   * IBM Data Science Professional Certificate
-  * FWD Data Analysis Professional Certificate
+  * FWD Data Analysis Challenger-Professional-Advanced Certificates
   * 365 Data Science Data Analysis Professional Certificate
 
 ## 🧰 Languages and Tools:
