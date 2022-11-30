@@ -44,7 +44,7 @@
 </p>
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedKKhalid&theme=tokyonight_duo" alt="AhmedKKhalid" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedKKhalid&theme=highcontrast" alt="AhmedKKhalid" /></p>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
