@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khalid</h1>
-<h3 align="center">A CS Graduate who has experience with programming languages and Write Queries for Data Science, Data Visualization [Tableau, PowerBI, Python],statistics ,SQL,Python,Excel,Machine Learning, </h3>
+<h3 align="center">A CS Graduate who has experience with programming languages and Write Queries for Data Science, Data Visualization [Tableau, PowerBI, Python],statistics ,SQL,Python,Excel,Machine Learning. </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedKKhalid&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedKKhalid" />
 		   <img src="https://img.shields.io/github/followers/AhmedKKhalid?label=Followers" alt="AhmedKKhalid" />
