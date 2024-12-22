@@ -8,12 +8,13 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = "300px"  />
 
 - :school: Bachelor In Computer Science.
+- 🌱 Graduated from "Advanced Machine Learning Specialization" offered by Stanford University.
 - 🌱 Graduated from "Data Analysis" offered by 365 Data Science.
 - 🌱 Graduated from "Data Analysis Nanodegree" offered by FWD Egypt & Udacity.
 - 🌱 Professional Certificate in "Data Science" from IBM 
 
 - 📫 How to reach me **khalid.a5251@gmail.com**
-- :thinking: [MY RESUME](https://drive.google.com/file/d/19z9DH6uz0VJXNAHraVJv04CVx3SbqN5M/view?usp=share_link).
+- :thinking: [MY RESUME](https://drive.google.com/file/d/1wx3R0WgdvOzRZv9iXPsfVdr8hg9NYXom/view?usp=sharing).
 
 <br>
 
